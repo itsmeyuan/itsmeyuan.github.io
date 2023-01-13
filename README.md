@@ -8,10 +8,10 @@
 **My Spotify Playlists:))**
 1. [My spotify playlist: ☕](https://open.spotify.com/playlist/5P7ZELCuDYJ8fH0zSDOR9l?si=ef11d4886d1c402e)
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5P7ZELCuDYJ8fH0zSDOR9l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-3. [My spotify playlist: 🍺](https://open.spotify.com/playlist/0yj3AWzMvLxsTuLExKR61S?si=2985c9296aae4ad4)
+2. [My spotify playlist: 🍺](https://open.spotify.com/playlist/0yj3AWzMvLxsTuLExKR61S?si=2985c9296aae4ad4)
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0yj3AWzMvLxsTuLExKR61S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-5. [My spotify playlist: 🥂](https://open.spotify.com/playlist/3xwt67NBx58r9s5V6cLRG8?si=b663d89934454027)
+3. [My spotify playlist: 🥂](https://open.spotify.com/playlist/3xwt67NBx58r9s5V6cLRG8?si=b663d89934454027)
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3xwt67NBx58r9s5V6cLRG8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-7. [My spotify playlist: ✨😩](https://open.spotify.com/playlist/3ZOtn0M4vdFR6zskqCCZoJ?si=df45661a41da42e7)
+4. [My spotify playlist: ✨😩](https://open.spotify.com/playlist/3ZOtn0M4vdFR6zskqCCZoJ?si=df45661a41da42e7)
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ZOtn0M4vdFR6zskqCCZoJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
