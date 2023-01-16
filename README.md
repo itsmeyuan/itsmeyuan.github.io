@@ -39,6 +39,6 @@ Goodnight!!</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
->OH YEAH!!! I love drawing but my art pretty trash✨✨ welp- anyways, here is my one and only decent art i guess:
+>OH YEAH!!! I love drawing but my art is pretty trash (skill issue)✨✨ welp- anyways, here is my one and only decent art i guess:
 >![20221027_191127](https://user-images.githubusercontent.com/122245002/212587133-69661ad8-fab0-403b-8080-4ca2cd95f281.jpg)
 
